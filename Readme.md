@@ -1,9 +1,3 @@
-<style>
-  body, p, li, td, th, h1, h2, h3, h4, h5, h6, code, pre {
-    font-size: 12px;
-  }
-</style>
-
 # RubricSmith
 
 RubricSmith is a simple tool to grade LLM output against trusted answers. It runs offline without external dependencies.
